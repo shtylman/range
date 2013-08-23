@@ -1,0 +1,11 @@
+{
+  "name": "range",
+  "description": "Return a range of integers",
+  "version": "1.0.0",
+  "keywords": [
+    "range",
+    "utility",
+    "array"
+  ],
+  "license": "MIT"
+}
