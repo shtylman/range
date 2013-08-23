@@ -1,5 +1,5 @@
 {
-  "name": "range",
+  "name": "range-component",
   "description": "Return a range of integers",
   "version": "1.0.0",
   "keywords": [
